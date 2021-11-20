@@ -1,0 +1,1 @@
+The `cow-not-full.txt` is downloaded from the [Open Multilingual Wordnet website](http://compling.hss.ntu.edu.sg/omw/). The `WordNet.ipynb` notebook provides code to collect the synonyms from nltk, which has the [Chinese Open Wordnet](http://compling.hss.ntu.edu.sg/cow/) built in. 
